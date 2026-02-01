@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1074386972595",
+    "project_id": "cashwise-tcc",
+    "storage_bucket": "cashwise-tcc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074386972595:android:67ee1c032b57757d5625c6",
+        "android_client_info": {
+          "package_name": "com.tcc.cashwise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074386972595-nnm241do34fobqcaekri955tkkldj746.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyykJX2DvNUhB69E-BWWPM31l6Nyd_c-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074386972595-nnm241do34fobqcaekri955tkkldj746.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074386972595-462oldteael3uj06309gfms8v4iqi3tc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cashwise"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
