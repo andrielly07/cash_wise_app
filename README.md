@@ -4,7 +4,10 @@
 
 A ideia é simples: ajudar jovens a organizarem melhor o próprio dinheiro de forma **fácil, visual e sem complicação**. Nada de termos difíceis ou planilhas confusas — aqui, finanças são descomplicadas 😌📊
 
-💙 **Acesse nosso site em:** cash-wise.netlify.app
+💙 **Acesse nosso site em:** https://cash-wise.netlify.app
+
+💙 **Acesse o repositório do nosso site em:** https://github.com/andrielly07/cash_wise
+
 
 ---
 
